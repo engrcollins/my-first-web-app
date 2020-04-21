@@ -8,7 +8,8 @@ function MyForm() {
     //alert(JSON.stringify(data,  null, 4));
     newData = (JSON.stringify(newData));
     console.log(JSON.stringify(newData, null, 4))
-    axios.post('https://github.com/engrcollins/web-journal/tableEntries', {newData}, {headers:{"Content-Type" : "application/json"}})
+    axios.post('https://github.com/engrcollins/web-journal/tableEntries', {newData}, {headers:{'Access-Control-Allow-Origin': '*',
+        'Content-Type': 'application/json',"}})
     .then(response => {
       console.log(response);
        console.log(response.data);
