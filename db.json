@@ -1,25 +1,25 @@
 {
-  "tutorials":
-  [
   {
-    "Title": "Mr",
-    "Category": "Coding",
-    "Content": "I love Coding",
-    "Source": "HPEnvyM6",
+    "index": 0,
+    "title": "Mr",
+    "category": "Coding",
+    "description": "I love Coding",
+    "source": "HPEnvyM6",
     "URL": "mccollins.com",
-    "Author": "Mccollins",
-    "Tags": "coding, json, web dev, dev-ops",
-    "Date": "myDate"
+    "author": "Mccollins",
+    "tags": "coding, json, web dev, dev-ops",
+    "published": "false"
   },
   {
-    "Title": "",
-    "Category": "",
-    "Content": "",
-    "Source": "",
+    "index": 1,
+    "title": "No Title",
+    "category": "",
+    "description": "",
+    "source": "",
     "URL": "",
-    "Author": "",
-    "Tags": "",
-    "Date": ""
+    "author": "",
+    "tags": "",
+    "published": "false"
   }
 ]
 }
