@@ -1,7 +1,7 @@
 {
   [
   {
-    "index": 0,
+    "index": "0",
     "title": "Mr",
     "category": "Coding",
     "description": "I love Coding",
@@ -12,7 +12,7 @@
     "published": "false"
   },
   {
-    "index": 1,
+    "index": "1",
     "title": "No Title",
     "category": "",
     "description": "",
