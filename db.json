@@ -14,13 +14,13 @@
       },
       {
         "index": 1,
-        "title": "No Title",
-        "category": "",
-        "description": "",
-        "source": "",
-        "URL": "",
-        "author": "",
-        "tags": "",
+        "title": "Mr",
+        "category": "Coding",
+        "description": "I love Coding",
+        "source": "HPEnvyM6",
+        "URL": "mccollins.com",
+        "author": "Mccollins",
+        "tags": "coding, json, web dev, dev-ops",
         "published": "false"
       }
     ]
